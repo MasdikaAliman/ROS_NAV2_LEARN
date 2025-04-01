@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/dika/Documents/ROS2_LEARN/install/custom_msgs_example/include/**",
+                "/opt/ros/humble/include/**",
+                "/home/dika/Documents/ROS2_LEARN/src/bumperbot_description/include/**",
+                "/home/dika/Documents/ROS2_LEARN/src/custom_msgs_example/include/**",
+                "/home/dika/Documents/ROS2_LEARN/src/example_parameter_cpp/include/**",
+                "/home/dika/Documents/ROS2_LEARN/src/pub_sub_example/include/**",
+                "/home/dika/Documents/ROS2_LEARN/src/simple_interface_example/include/**",
+                "/usr/include/**",
+                "${workspaceFolder}/ros2_cpp_example/include",
+                "${workspaceFolder}/bumperbot_localization/include"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
