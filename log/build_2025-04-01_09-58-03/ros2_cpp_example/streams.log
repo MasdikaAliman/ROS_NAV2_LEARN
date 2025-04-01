@@ -1,0 +1,25 @@
+[0.019s] Invoking command in '/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example -- -j12 -l12
+[0.052s] [35m[1mConsolidate compiler generated dependencies of target example_tf2_bumperbot[0m
+[0.067s] [100%] Built target example_tf2_bumperbot
+[0.128s] Invoked command in '/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example -- -j12 -l12
+[0.129s] Invoking command in '/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example
+[0.144s] -- Install configuration: ""
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/include/include
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/include/include/example_tf_bumperbot.hpp
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/lib/ros2_cpp_example/example_tf2_bumperbot
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ament_index/resource_index/package_run_dependencies/ros2_cpp_example
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ament_index/resource_index/parent_prefix_path/ros2_cpp_example
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ros2_cpp_example/environment/ament_prefix_path.sh
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ros2_cpp_example/environment/ament_prefix_path.dsv
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ros2_cpp_example/environment/path.sh
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ros2_cpp_example/environment/path.dsv
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ros2_cpp_example/local_setup.bash
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ros2_cpp_example/local_setup.sh
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ros2_cpp_example/local_setup.zsh
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ros2_cpp_example/local_setup.dsv
+[0.144s] -- Installing: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ros2_cpp_example/package.dsv
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ament_index/resource_index/packages/ros2_cpp_example
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ros2_cpp_example/cmake/ros2_cpp_exampleConfig.cmake
+[0.144s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ros2_cpp_example/cmake/ros2_cpp_exampleConfig-version.cmake
+[0.145s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/ros2_cpp_example/share/ros2_cpp_example/package.xml
+[0.153s] Invoked command in '/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example

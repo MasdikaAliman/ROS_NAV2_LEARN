@@ -1,0 +1,11 @@
+/home/dika/Documents/ROS2_LEARN/build/bumperbot_localization/CMakeFiles/uninstall.dir
+/home/dika/Documents/ROS2_LEARN/build/bumperbot_localization/CMakeFiles/bumperbot_localization_uninstall.dir
+/home/dika/Documents/ROS2_LEARN/build/bumperbot_localization/CMakeFiles/imu_republish.dir
+/home/dika/Documents/ROS2_LEARN/build/bumperbot_localization/CMakeFiles/odom_republisher.dir
+/home/dika/Documents/ROS2_LEARN/build/bumperbot_localization/CMakeFiles/test.dir
+/home/dika/Documents/ROS2_LEARN/build/bumperbot_localization/CMakeFiles/edit_cache.dir
+/home/dika/Documents/ROS2_LEARN/build/bumperbot_localization/CMakeFiles/rebuild_cache.dir
+/home/dika/Documents/ROS2_LEARN/build/bumperbot_localization/CMakeFiles/list_install_components.dir
+/home/dika/Documents/ROS2_LEARN/build/bumperbot_localization/CMakeFiles/install.dir
+/home/dika/Documents/ROS2_LEARN/build/bumperbot_localization/CMakeFiles/install/local.dir
+/home/dika/Documents/ROS2_LEARN/build/bumperbot_localization/CMakeFiles/install/strip.dir

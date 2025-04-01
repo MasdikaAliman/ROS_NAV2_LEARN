@@ -1,0 +1,32 @@
+[0.016s] Invoking command in '/home/dika/Documents/ROS2_LEARN/build/bumperbot_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/dika/Documents/ROS2_LEARN/build/bumperbot_navigation -- -j12 -l12
+[0.045s] Invoked command in '/home/dika/Documents/ROS2_LEARN/build/bumperbot_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/dika/Documents/ROS2_LEARN/build/bumperbot_navigation -- -j12 -l12
+[0.053s] Invoking command in '/home/dika/Documents/ROS2_LEARN/build/bumperbot_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/dika/Documents/ROS2_LEARN/build/bumperbot_navigation
+[0.060s] -- Install configuration: ""
+[0.060s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/launch
+[0.060s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/launch/localization.launch.py
+[0.061s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/launch/navigation.launch.py
+[0.061s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/config
+[0.061s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/config/nav2_param.yaml
+[0.061s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/config/slam_toolbox.yaml
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/map
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/map/map.data
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/map/map.yaml
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/map/map.pgm
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/map/map.posegraph
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/include/include
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/ament_index/resource_index/package_run_dependencies/bumperbot_navigation
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/ament_index/resource_index/parent_prefix_path/bumperbot_navigation
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/environment/ament_prefix_path.sh
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/environment/ament_prefix_path.dsv
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/environment/path.sh
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/environment/path.dsv
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/local_setup.bash
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/local_setup.sh
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/local_setup.zsh
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/local_setup.dsv
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/package.dsv
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/ament_index/resource_index/packages/bumperbot_navigation
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/cmake/bumperbot_navigationConfig.cmake
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/cmake/bumperbot_navigationConfig-version.cmake
+[0.062s] -- Up-to-date: /home/dika/Documents/ROS2_LEARN/install/bumperbot_navigation/share/bumperbot_navigation/package.xml
+[0.068s] Invoked command in '/home/dika/Documents/ROS2_LEARN/build/bumperbot_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/dika/Documents/ROS2_LEARN/build/bumperbot_navigation

@@ -163,10 +163,10 @@ Visualization Manager:
                   {}
                 laser_link:
                   {}
-                wheel_left_link:
-                  {}
-                wheel_right_link:
-                  {}
+              wheel_left_link:
+                {}
+              wheel_right_link:
+                {}
       Update Interval: 0
       Value: true
     - Alpha: 1
@@ -249,7 +249,7 @@ Visualization Manager:
       Class: rviz_default_plugins/Map
       Color Scheme: costmap
       Draw Behind: false
-      Enabled: false
+      Enabled: true
       Name: Map
       Topic:
         Depth: 5
@@ -265,7 +265,7 @@ Visualization Manager:
         Reliability Policy: Reliable
         Value: /local_costmap/costmap_updates
       Use Timestamp: false
-      Value: false
+      Value: true
     - Alpha: 1
       Buffer Length: 1
       Class: rviz_default_plugins/Path
@@ -402,6 +402,7 @@ Visualization Manager:
         History Policy: Keep Last
         Reliability Policy: Reliable
         Value: /clicked_point
+    - Class: nav2_rviz_plugins/GoalTool
   Transformation:
     Current:
       Class: rviz_default_plugins/TF
@@ -424,10 +425,10 @@ Visualization Manager:
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 1.2147958278656006
+      Pitch: 1.1447958946228027
       Target Frame: <Fixed Frame>
       Value: Orbit (rviz)
-      Yaw: 4.823575973510742
+      Yaw: 4.613580226898193
     Saved: ~
 Window Geometry:
   Displays:

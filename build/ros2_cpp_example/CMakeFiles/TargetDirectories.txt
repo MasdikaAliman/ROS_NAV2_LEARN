@@ -1,0 +1,10 @@
+/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example/CMakeFiles/uninstall.dir
+/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example/CMakeFiles/ros2_cpp_example_uninstall.dir
+/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example/CMakeFiles/example_tf2_bumperbot.dir
+/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example/CMakeFiles/test.dir
+/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example/CMakeFiles/edit_cache.dir
+/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example/CMakeFiles/rebuild_cache.dir
+/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example/CMakeFiles/list_install_components.dir
+/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example/CMakeFiles/install.dir
+/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example/CMakeFiles/install/local.dir
+/home/dika/Documents/ROS2_LEARN/build/ros2_cpp_example/CMakeFiles/install/strip.dir
